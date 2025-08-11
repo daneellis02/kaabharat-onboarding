@@ -21,7 +21,7 @@ export const TRANSLATIONS: Record<string, Translations> = {
     placeholderDefault: 'Ask me anything...',
   },
   hi: {
-    title: 'काभारत ऑनबोर्डिंग',
+    title: 'काभारत केवाईसी',
     changeLanguageButton: 'भाषा बदलें',
     conversationSubtitle: 'हिन्दी वार्तालाप',
     aadhaar: 'आधार',
