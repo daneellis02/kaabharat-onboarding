@@ -31,7 +31,7 @@ const LanguageSelector: React.FC<LanguageSelectorProps> = ({ onSelectLanguage })
         </div>
       </main>
        <footer className="py-8 text-center text-slate-500/80">
-            <p><strong>Copyright © 2025, Kaabharat</strong></p>
+            <p>Copyright © 2025, Kaabharat</p>
         </footer>
     </div>
   );
