@@ -1,0 +1,28 @@
+{
+  "name": "kaabharat-onboarding",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^1.13.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.1.9",
+    "esbuild": "^0.25.8",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  },
+  "description": "This contains everything you need to run your app locally.",
+  "main": "env.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

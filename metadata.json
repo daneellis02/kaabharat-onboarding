@@ -1,0 +1,9 @@
+
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Kaabharat Onboarding",
+  "description": "",
+  "prompt": ""
+}
